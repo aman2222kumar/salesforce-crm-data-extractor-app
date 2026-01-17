@@ -25,7 +25,7 @@ For Developers
 
 Clone the repository
 
-git clone https://github.com/aman2222kumar/salesforce-crm-data-extractor-app
+git clone https://github.com/aman2222kumar/salesforce-crm-data-extractor-app.git
 cd salesforce-crm-data-extractor
 
 
